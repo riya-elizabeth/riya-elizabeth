@@ -4,7 +4,7 @@ MSBA Candidate · Data Science · Machine Learning · AI
 
 *Data is only useful if it drives a decision — I build models and systems that make that happen.*
 
-6+ years across engineering and analytics. Currently completing my Master's in Business Analytics, building a portfolio of end-to-end ML projects targeting Data Science and AI Product & Engineering roles.
+Currently completing my Master's in Business Analytics, building a portfolio of end-to-end ML projects targeting Data Science and AI Engineering roles.
 
 ---
 
@@ -14,7 +14,7 @@ MSBA Candidate · Data Science · Machine Learning · AI
 |---|---|---|---|---|
 | [Customer Churn Prediction](https://github.com/riya-elizabeth/customer-churn-prediction) | ML Classification | ✅ Complete | XGBoost · AUC 0.87 · Recall 76.9% · Business cost analysis | Python · XGBoost · Scikit-learn |
 | [Construction Safety AI Agent](https://github.com/riya-elizabeth/ai-agent-construction) | Agentic AI · RAG | 🚧 In Progress | 84% OSHA question coverage · ChromaDB · FastAPI backend | Python · Claude API · ChromaDB · FastAPI |
-| DS Job Market 2026 *(coming soon)* | EDA · Data Analysis | 🚧 In Progress| Analyzed 10,000+ job postings across 4 DS/ML roles | Python · Pandas · Seaborn · Adzuna API |
+| [DS Job Market 2026](https://github.com/riya-elizabeth/ds-job-market-2026) | EDA · Data Analysis | 🚧 In Progress | Analyzing 10,000+ job postings across 4 DS/ML roles | Python · Pandas · Seaborn · Adzuna API |
 
 ---
 
