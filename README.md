@@ -1,26 +1,23 @@
-# Hi, I'm Riya Elizabeth 👋
+# Hi, I'm Riya Elizabeth
 
-Engineer · Analyst · ML Builder
+MSBA Candidate · Data Science · Machine Learning · AI
 
-*Data is only useful if it drives a decision — I focus on building systems that make that happen.*
+*Data is only useful if it drives a decision — I build models and systems that make that happen.*
 
-6+ years across engineering and analytics.
-Now going deeper into ML and AI building end-to-end systems
-that work in real-world settings, including agentic AI.
+Currently completing my Master's in Business Analytics, building a portfolio of end-to-end ML projects targeting Data Science and AI Engineering roles.
 
 ---
 
-## What I'm Focused On
+## Featured Projects
 
-- ⚙️ Applied Machine Learning
-- 🤖 AI & LLM-based Systems
-- 🔧 Agentic AI Systems
-- 🧪 Causal Inference & Experimentation
-- 🔁 Data Engineering & ETL Pipelines
+| Project | Type | Key Result | Stack |
+|---|---|---|---|
+| [Customer Churn Prediction](https://github.com/riya-elizabeth/customer-churn-prediction) | ML Classification | XGBoost · AUC 0.87 · Recall 76.9% · Business cost analysis | Python · XGBoost · Scikit-learn |
+| DS Job Market 2026 *(coming soon)* | EDA · Data Analysis | Analyzed 10,000+ job postings across 4 DS/ML roles | Python · Pandas · Seaborn · Adzuna API |
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages & Data**
 
@@ -34,6 +31,7 @@ that work in real-world settings, including agentic AI.
 
 **ML & Data Science**
 
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat&logoColor=white)
 ![Regression](https://img.shields.io/badge/Regression_Models-150458?style=flat&logoColor=white)
 ![Random Forest](https://img.shields.io/badge/Random_Forest-139C5A?style=flat&logoColor=white)
 ![Neural Networks](https://img.shields.io/badge/Neural_Networks-FF6F00?style=flat&logoColor=white)
@@ -63,7 +61,8 @@ that work in real-world settings, including agentic AI.
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
-## 📬 Open To
+
+## Open To
 
 Data Science · Data Analytics · Machine Learning · AI Engineering roles
 
