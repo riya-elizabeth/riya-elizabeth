@@ -10,10 +10,11 @@ Currently completing my Master's in Business Analytics, building a portfolio of 
 
 ## Featured Projects
 
-| Project | Type | Key Result | Stack |
-|---|---|---|---|
-| [Customer Churn Prediction](https://github.com/riya-elizabeth/customer-churn-prediction) | ML Classification | XGBoost · AUC 0.87 · Recall 76.9% · Business cost analysis | Python · XGBoost · Scikit-learn |
-| DS Job Market 2026 *(coming soon)* | EDA · Data Analysis | Analyzed 10,000+ job postings across 4 DS/ML roles | Python · Pandas · Seaborn · Adzuna API |
+| Project | Type | Status | Key Result | Stack |
+|---|---|---|---|---|
+| [Customer Churn Prediction](https://github.com/riya-elizabeth/customer-churn-prediction) | ML Classification | ✅ Complete | XGBoost · AUC 0.87 · Recall 76.9% · Business cost analysis | Python · XGBoost · Scikit-learn |
+| [Construction Safety AI Agent](https://github.com/riya-elizabeth/ai-agent-construction) | Agentic AI · RAG | 🚧 In Progress | 84% OSHA question coverage · ChromaDB · FastAPI backend | Python · Claude API · ChromaDB · FastAPI |
+| DS Job Market 2026 *(coming soon)* | EDA · Data Analysis | 🔜 Coming Soon | Analyzed 10,000+ job postings across 4 DS/ML roles | Python · Pandas · Seaborn · Adzuna API |
 
 ---
 
