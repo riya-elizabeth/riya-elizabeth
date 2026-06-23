@@ -4,8 +4,6 @@ MSBA Graduate · Data Science · Machine Learning · AI
 
 *Data is only useful if it drives a decision — I build models and systems that make that happen.*
 
-Currently completing my Master's in Business Analytics, building a portfolio of end-to-end ML projects targeting Data Science and AI Engineering roles.
-
 ---
 
 ## Featured Projects
