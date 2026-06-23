@@ -12,6 +12,7 @@ Currently completing my Master's in Business Analytics, building a portfolio of 
 
 | Project | Type | Status | Key Result | Stack |
 |---|---|---|---|---|
+| [JobPilot](https://github.com/riya-elizabeth/jobpilot) | Big Data · Ranking · NLP | ✅ Complete | End-to-end job matching pipeline: Bloom Filter dedup → BGE embeddings → ChromaDB ANN → Q-Learning re-rank → tailored resume PDF | Python · FastAPI · Streamlit · ChromaDB · Q-Learning · Anthropic API · Cloud Run |
 | [Customer Churn Prediction](https://github.com/riya-elizabeth/customer-churn-prediction) | ML Classification | ✅ Complete | XGBoost · AUC 0.87 · Recall 76.9% · Business cost analysis | Python · XGBoost · Scikit-learn |
 | [Construction Safety AI Agent](https://github.com/riya-elizabeth/ai-agent-construction) | Agentic AI · RAG | ✅ Complete | 84% coverage · 0% hallucination · 2.92/3.0 accuracy · Continuous conversation memory | Python · Claude API · ChromaDB · FastAPI · Streamlit |
 | [DS Job Market 2026](https://github.com/riya-elizabeth/ds-job-market-2026) | EDA · Data Analysis | 🚧 In Progress | Analyzing 10,000+ job postings across 4 DS/ML roles | Python · Pandas · Seaborn · Adzuna API |
@@ -52,7 +53,16 @@ Currently completing my Master's in Business Analytics, building a portfolio of 
 ![Human in the Loop](https://img.shields.io/badge/Human--in--the--Loop-139C5A?style=flat&logoColor=white)
 ![LLM Evaluation](https://img.shields.io/badge/LLM_Evaluation-FF3621?style=flat&logoColor=white)
 
-**Visualization & Infra**
+**Big Data & Infrastructure**
+
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F00?style=flat&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
+![Pub/Sub](https://img.shields.io/badge/Pub%2FSub-4285F4?style=flat&logo=googlecloud&logoColor=white)
+
+**Visualization & Tools**
 
 ![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
