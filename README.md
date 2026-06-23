@@ -1,6 +1,6 @@
 # Hi, I'm Riya Elizabeth
 
-MSBA Candidate · Data Science · Machine Learning · AI
+MSBA Graduate · Data Science · Machine Learning · AI
 
 *Data is only useful if it drives a decision — I build models and systems that make that happen.*
 
