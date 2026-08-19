@@ -6,6 +6,10 @@ I turn business questions into models, and models into working products.
 
 MSBA graduate based in Santa Clara, CA — open to Data Science, ML, and AI Engineering roles.
 
+## About Me
+
+I'm a data scientist with an MSBA from UC Davis who enjoys the full arc of a problem — framing the business question, building the model, and shipping it as something people can actually use. My recent work spans classical ML (churn, forecasting) and applied GenAI (RAG pipelines and agentic systems), with a focus on making trade-offs like cost, latency, and accuracy explicit. Always learning, and happiest when a project moves a real metric.
+
 ## Featured Projects
 
 - **[Sales Research Assistant](https://github.com/riya-elizabeth/sales-research-assistant)** — AI research assistant for sales outreach. A 3-tier case study comparing a baseline LLM call, a RAG pipeline, and a multi-agent system on latency, cost, and accuracy.
