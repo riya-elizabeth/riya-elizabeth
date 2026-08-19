@@ -2,7 +2,7 @@
 
 **Data Scientist · ML & AI Engineer**
 
-I build models and systems that turn data into decisions.
+I turn business questions into models, and models into working products.
 
 MSBA graduate based in Santa Clara, CA — open to Data Science, ML, and AI Engineering roles.
 
