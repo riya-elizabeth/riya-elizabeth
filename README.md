@@ -1,7 +1,5 @@
 # Riya Elizabeth
 
-**Data Scientist · ML & AI Engineer**
-
 I turn business questions into models, and models into working products.
 
 MSBA graduate based in Santa Clara, CA — open to Data Science, ML, and AI Engineering roles.
