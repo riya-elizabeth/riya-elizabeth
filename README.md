@@ -2,7 +2,7 @@
 
 I turn business questions into models, and models into working products.
 
-MSBA graduate based in Santa Clara, CA — open to Data Science, ML, and AI Engineering roles.
+MSBA graduate based in Bay Area, CA open to Data Science, ML, and AI Engineering roles.
 
 ## About Me
 
