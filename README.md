@@ -11,6 +11,7 @@ I'm a data scientist with an MSBA from UC Davis who enjoys the full arc of a pro
 ## Featured Projects
 
 - **[Sales Research Assistant](https://github.com/riya-elizabeth/sales-research-assistant)** — AI research assistant for sales outreach. A 3-tier case study comparing a baseline LLM call, a RAG pipeline, and a multi-agent system on latency, cost, and accuracy.
+- **[Semiconductor Yield Anomaly Model](https://github.com/riya-elizabeth/semiconductor-yield-anomaly-model) - End-to-end semiconductor yield intelligence pipeline — yield prediction (ROC-AUC 0.76), unsupervised excursion detection, and SHAP root-cause ranking served via a containerised FastAPI API on UCI SECOM wafer data.
 - **[Construction Safety AI Agent](https://github.com/riya-elizabeth/ai-agent-construction)** — RAG agent over OSHA safety documents. 84% coverage with 0% hallucination (Claude API · ChromaDB · FastAPI).
 - **[Customer Churn Prediction](https://github.com/riya-elizabeth/customer-churn-prediction)** — XGBoost churn model (AUC 0.87, recall 76.9%) with business-cost analysis on 10,000 customers.
 - **[JobPilot](https://github.com/riya-elizabeth/jobpilot)** — End-to-end job-matching pipeline: dedup → embeddings → ChromaDB ANN → Q-learning re-rank → tailored resume PDF.
@@ -18,10 +19,10 @@ I'm a data scientist with an MSBA from UC Davis who enjoys the full arc of a pro
 ## Skills
 
 - **Languages:** Python, SQL, R
-- **ML & Data:** scikit-learn, XGBoost, pandas, feature engineering, model validation
+- **ML & Data:** scikit-learn, LightGBM, XGBoost, pandas, SHAP, feature engineering, class imbalance handling, model validation
 - **AI & GenAI:** Claude API, RAG, agentic systems, Hugging Face, prompt engineering
-- **Infra & Tools:** FastAPI, ChromaDB, Docker, GCP, Streamlit, Git
+- **Infra & Tools:** Pydantic, FastAPI, ChromaDB, Docker, GCP, Streamlit, Git
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/riya-elizabeth-personal/) · [Email](mailto:official.riyaelizabeth@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/riya-elizabeth-personal/) · [Email](mailto:riya.elizabeth.work@gmail.com)
